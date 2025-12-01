@@ -1,6 +1,7 @@
 {
   "name": "newreact",
   "private": true,
+  "homepage": "https://petkanych-daryna.github.io/NewReact",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
