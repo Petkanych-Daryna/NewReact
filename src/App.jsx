@@ -1,5 +1,5 @@
 import './App.css';
-import {Info} from './conponents/Info';
+import {Info} from './components/Info';
 const App = () => {
 return(
   <div className='main'>
